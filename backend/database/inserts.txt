@@ -1,0 +1,15 @@
+INSERT INTO movies (`id`, `type`, `name`, `total_ep`, `atual_ep`, `last_view`) VALUES (NULL, 1, 'Um Sonho de Liberdade', 1, 1, current_timestamp());
+
+INSERT INTO movies (`id`, `type`, `name`, `total_ep`, `atual_ep`, `last_view`) VALUES (NULL, 1, 'O Poderoso Chefão', 1, 1, current_timestamp());
+
+INSERT INTO movies (`id`, `type`, `name`, `total_ep`, `atual_ep`, `last_view`) VALUES (NULL, 0, 'Irmãos de Guerra', 10, 5, current_timestamp());
+
+INSERT INTO movies (`id`, `type`, `name`, `total_ep`, `atual_ep`, `last_view`) VALUES (NULL, 0, 'Chernobyl', 5, 1, current_timestamp());
+
+INSERT INTO movies (`id`, `type`, `name`, `total_ep`, `atual_ep`, `last_view`) VALUES (NULL, 0, 'Todo Mundo Odeia o Chris', 88, 15, current_timestamp());
+
+INSERT INTO movies (`id`, `type`, `name`, `total_ep`, `atual_ep`, `last_view`) VALUES (NULL, 1, 'O Império Contra-Ataca', 1, 1, current_timestamp());
+
+INSERT INTO movies (`id`, `type`, `name`, `total_ep`, `atual_ep`, `last_view`) VALUES (NULL, 1, 'De Volta para o Futuro', 1, 1, current_timestamp());
+
+INSERT INTO movies (`id`, `type`, `name`, `total_ep`, `atual_ep`, `last_view`) VALUES (NULL, 0, 'Sobrenatural', 327, 327, current_timestamp());
